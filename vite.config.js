@@ -5,8 +5,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: 'src/main.jsx', // or wherever your entry point is
-      name: 'ReactDynamicFormV2',
-      fileName: (format) => `react-dynamic-form-v2.${format}.js`,
+      name: 'Encryption-services',
+      fileName: (format) => `encryption-services.${format}.js`,
       formats: ['es', 'cjs'], // Support both ES Modules and CommonJS
     },
     rollupOptions: {

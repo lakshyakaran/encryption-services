@@ -1,6 +1,6 @@
 {
   "name": "encryption-services",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "type": "module",
   "main": "dist/react-dynamic-form-v2.cjs.js",
   "module": "dist/react-dynamic-form-v2.es.js",
@@ -43,7 +43,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lakshyakaran/react-dynamic-form-v2"
+    "url": "https://github.com/lakshyakaran/encryption-services"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
@@ -58,8 +58,8 @@
     "vite": "^5.4.1"
   },
   "bugs": {
-    "url": "https://github.com/lakshyakaran/react-dynamic-form-v2/issues"
+    "url": "https://github.com/lakshyakaran/encryption-services/issues"
   },
-  "homepage": "https://github.com/lakshyakaran/react-dynamic-form-v2#readme",
+  "homepage": "https://github.com/lakshyakaran/encryption-services#readme",
   "author": "Lakshya Karan"
 }
