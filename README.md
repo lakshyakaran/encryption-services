@@ -25,7 +25,7 @@ import { EncryptionService } from 'encryption-services';
 To initialize the encryption service, you need to provide the server's public key URL and a shared key URL:
 
 ```jsx
-    const services = new EncryptionService();
+const services = new EncryptionService();
 ```
 
 ```jsx 
